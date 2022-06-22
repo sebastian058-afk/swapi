@@ -1,4 +1,4 @@
-import { AppBar, Box, Toolbar, Typography } from "@mui/material"
+import { AppBar, Box, Toolbar } from "@mui/material"
 import { ThemeProvider } from '@mui/material/styles';
 import { darkTheme } from "../../themes/theme-providers";
 import { FC } from "react";

@@ -1,5 +1,5 @@
 import { Alert, Snackbar } from '@mui/material';
-import { FC, useState } from 'react';
+import { useState } from 'react';
 
 type AlertBarProps = {
     errorLabel: string

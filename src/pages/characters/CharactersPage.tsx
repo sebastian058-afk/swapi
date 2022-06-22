@@ -39,7 +39,7 @@ export const CharactersPage = () => {
                         <CardsContainer>
                             {
                                 characters?.filter((character: any) => {
-                                    if (searchQuery == "") {
+                                    if (!searchQuery) {
                                         return character
                                     } else if (character?.name.toLowerCase().includes(searchQuery?.toLowerCase())) {
                                         return character

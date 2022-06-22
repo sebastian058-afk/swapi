@@ -1,6 +1,5 @@
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { useQuery as query } from 'react-query';
-import { Button, CardContent, CardMedia, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from "@mui/material";
 import ProgressContainer from "../../components/ui/flex/ProgressContainer";
 import { Box } from "@mui/system";
 import WhiteCircularProgress from "../../components/ui/WhiteCircularPRogress";
