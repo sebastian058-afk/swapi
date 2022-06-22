@@ -4,6 +4,7 @@ import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const logoElement: HTMLElement[] = screen.getAllByAltText('star_wars_logo');
+  console.log(logoElement)
+  expect(logoElement).toBeVisible()
 });
