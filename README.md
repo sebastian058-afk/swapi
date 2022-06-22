@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Libraries and resources used: Material UI, Material UI Icons, Styled Components. 
+
 ## Available Scripts
 
 In the project directory, you can run:
