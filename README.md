@@ -6,7 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In order to run this project, you must install:
 
-NodeJS & npm
+NodeJS, npm & GIT
+
+CD to your desired folder
+
+### `git clone https://github.com/sebastian058-afk/swapi.git`
 
 ### `npm install`
 
