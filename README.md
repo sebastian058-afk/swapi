@@ -8,9 +8,11 @@ In order to run this project, you must install:
 
 NodeJS, npm & GIT
 
-CD to your desired folder
+### `CD to your desired folder`
 
 ### `git clone https://github.com/sebastian058-afk/swapi.git`
+
+### `cd swapi`
 
 ### `npm install`
 
