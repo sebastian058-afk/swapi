@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Tools:
+
+- Typescript
+- React query
+- Material UI & MUI Icons
+- Emotion, styled
+- Axios
+- React router dom v6
+
 ## Steps
 
 In order to run this project, you must install:
